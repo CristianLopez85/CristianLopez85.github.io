@@ -50,6 +50,24 @@ latest_posts:
 .social {
   text-align: left !important;
 }
+  .social-links-custom {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  align-items: center;
+}
+
+.social-links-custom a {
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.social-links-custom i {
+  font-size: 1.35rem;
+  margin-left: 0.25rem;
+  vertical-align: middle;
+}
 </style>
 
 I am a Postdoctoral Associate in the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder, mentored by Professor [David M. Bortz](https://www.colorado.edu/amath/david-bortz) and Professor [Stephen Becker](https://www.colorado.edu/amath/becker).
@@ -72,8 +90,24 @@ I completed my Ph.D in [Mechanical Engineering and Applied Mechanics](https://en
 
 Explore my [research](/research/) page for more details.
 
-<div class="social">
-  <div class="contact-icons">
-    {% social_links %}
-  </div>
+<div class="social-links-custom">
+  <a href="mailto:Cristian.LopezRuano@colorado.edu">
+    Email <i class="fa-solid fa-envelope"></i>
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=2BtHvq0AAAAJ&hl">
+    Scholar <i class="ai ai-google-scholar"></i>
+  </a>
+
+  <a href="https://orcid.org/0000-0001-7159-3008">
+    ORCID <i class="ai ai-orcid"></i>
+  </a>
+
+  <a href="https://www.linkedin.com/in/cristian-lópez-ruano-510592167/">
+    LinkedIn <i class="fa-brands fa-linkedin"></i>
+  </a>
+
+  <a href="https://github.com/CristianLopez85">
+    GitHub <i class="fa-brands fa-github"></i>
+  </a>
 </div>
