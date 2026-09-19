@@ -26,6 +26,28 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+.social .contact-icons {
+  font-size: 2rem !important;
+}
+
+.social .contact-icons a img {
+  width: 1.6rem !important;
+  height: 1.6rem !important;
+  margin-bottom: 0.5rem;
+}
+
+.social .contact-icons a svg {
+  width: 1.8rem !important;
+  height: 2rem !important;
+  margin-bottom: 0.25rem;
+}
+
+.social .contact-icons a svg image {
+  width: 1.8rem !important;
+  height: 1.8rem !important;
+}
+</style>
 
 I am a Postdoctoral Associate in the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder, mentored by Professor [David M. Bortz](https://www.colorado.edu/amath/david-bortz) and Professor [Stephen Becker](https://www.colorado.edu/amath/becker).
 
