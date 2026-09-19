@@ -21,6 +21,7 @@ My research focuses on using weak-form scientific machine learning methods for s
     </p>
 
     <p>
+      <em>PRSA</em>
       [<a href="https://doi.org/10.1098/rspa.2026.0413">DOI</a>]
       [<a href="https://arxiv.org/abs/2604.23269">arXiv</a>]
       [<a href="https://github.com/MathBioCU/WSINDY-MPC">code</a>]
