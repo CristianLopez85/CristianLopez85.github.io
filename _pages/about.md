@@ -8,7 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: >
+  <p>ECOT 641, Engineering Center</p>
+  <p>1111 Engineering Drive</p>
+  <p>Boulder, CO 80309</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,8 +32,6 @@ I am a Postdoctoral Associate in the [Department of Applied Mathematics](https:/
 I completed my Ph.D in [Mechanical Engineering and Applied Mechanics](https://engineering.unl.edu/mme/) at the University of Nebraska – Lincoln in 2025, advised by Professor [Keegan J. Moore](https://modal.ae.gatech.edu/team/).
 
 My main research interests include in Weak-form Scientific Machine Learning, Nonlinear Dynamics, Signal Processing, Control, Rotating Machinery Fault Diagnosis.
-
-Office: ECOT 641, Engineering Center, Office Tower | Boulder, CO 80309
 
 Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
