@@ -56,12 +56,21 @@ I am a Postdoctoral Associate in the [Department of Applied Mathematics](https:/
 
 I completed my Ph.D in [Mechanical Engineering and Applied Mechanics](https://engineering.unl.edu/mme/) at the University of Nebraska – Lincoln in 2025, advised by Professor [Keegan J. Moore](https://modal.ae.gatech.edu/team/).
 
-Main research interests:
-- Nonlinear Dynamics. Weak-form Scientific Machine Learning. 
-- Signal Processing
-- Model Predictive Control
-- Rotating Machinery Fault Diagnosis.
-See my [Research](/research/) page for more details.
+## Research Focus
+
+- **Nonlinear Dynamics**  
+  Data-driven discovery of interpretable nonlinear dynamical models from noisy and limited measurements by using Weak-form Scientific Machine Learning methods.
+
+- **Signal Processing**  
+  Weak signal detection and decomposition of signals with crossover frequencies.
+
+- **Model Predictive Control**  
+  Model-based prediction and control of nonlinear dynamical systems using interpretable learned models.
+
+- **Rotating Machinery Fault Diagnosis**  
+  Condition monitoring and diagnosis of faults in rotating machinery and mechanical systems.
+
+Explore my [research](/research/) page for more details.
 
 <div class="social">
   <div class="contact-icons">
