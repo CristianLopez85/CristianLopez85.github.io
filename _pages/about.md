@@ -14,7 +14,7 @@ profile:
     <p>Boulder, CO 80309</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -47,6 +47,9 @@ latest_posts:
   width: 1.8rem !important;
   height: 1.8rem !important;
 }
+.social {
+  text-align: left !important;
+}
 </style>
 
 I am a Postdoctoral Associate in the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder, mentored by Professor [David M. Bortz](https://www.colorado.edu/amath/david-bortz) and Professor [Stephen Becker](https://www.colorado.edu/amath/becker).
@@ -54,3 +57,9 @@ I am a Postdoctoral Associate in the [Department of Applied Mathematics](https:/
 I completed my Ph.D in [Mechanical Engineering and Applied Mechanics](https://engineering.unl.edu/mme/) at the University of Nebraska – Lincoln in 2025, advised by Professor [Keegan J. Moore](https://modal.ae.gatech.edu/team/).
 
 My main research interests include in Weak-form Scientific Machine Learning, Nonlinear Dynamics, Signal Processing, Control, Rotating Machinery Fault Diagnosis.
+
+<div class="social">
+  <div class="contact-icons">
+    {% social_links %}
+  </div>
+</div>
