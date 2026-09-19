@@ -10,7 +10,36 @@ My research focuses on using weak-form scientific machine learning methods for s
 
 ## Prediction and Control
 
-...
+
+<div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 1.5rem;">
+  <div style="flex: 1 1 360px; max-width: 420px;">
+    <img
+      src="/assets/img/Figure1.svg"
+      alt="Flowchart of WSINDY-MPC"
+      style="width: 100%; height: auto;"
+    />
+  </div>
+
+  <div style="flex: 1 1 360px; min-width: 280px;">
+    <p>
+      This work integrates the weak-form sparse identification of nonlinear dynamics method, which identify interpretable nonlinear dynamical models from noisy measurements and use them within model predictive control for prediction and closed-loop control. The framework was demonstrated several applications including plasma physics for fusion, drones, and chaotic systems.
+    </p>
+
+    <p>
+      <strong>Manuscript:</strong>
+      <a href="https://doi.org/10.1098/rspa.2026.0413" target="_blank" rel="noopener noreferrer">
+        Proceedings of the Royal Society A article
+      </a>
+    </p>
+
+    <p>
+      <strong>Code:</strong>
+      <a href="https://github.com/MathBioCU/WSINDY-MPC" target="_blank" rel="noopener noreferrer">
+        GitHub repository
+      </a>
+    </p>
+  </div>
+</div>
 
 ## Data-driven Discovery of Governing Equations
 
