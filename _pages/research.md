@@ -25,6 +25,7 @@ My research focuses on using weak-form scientific machine learning methods for s
       [<a href="https://arxiv.org/abs/2604.23269">arXiv</a>]
       [<a href="https://github.com/MathBioCU/WSINDY-MPC">code</a>]
     </p>
+
   </div>
 </div>
 
