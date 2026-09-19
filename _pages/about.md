@@ -7,7 +7,7 @@ subtitle: Welcome to Cristian López's Homepage
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>ECOT 641, Engineering Center</p>
     <p>1111 Engineering Drive</p>
