@@ -10,12 +10,37 @@ My research focuses on using weak-form scientific machine learning methods for s
 
 ## Prediction and Control
 
-<div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 1.5rem;">
-  <div style="flex: 1 1 360px; max-width: 420px;">
-    <img src="/assets/img/Figure1.svg" alt="Flowchart of WSINDY-MPC" style="width: 100%; height: auto;" />
+<style>
+  .research-project {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+  }
+
+  .research-project-image {
+    flex: 1 1 360px;
+    max-width: 420px;
+  }
+
+  .research-project-image img {
+    width: 100%;
+    height: auto;
+  }
+
+  .research-project-text {
+    flex: 1 1 360px;
+    min-width: 280px;
+  }
+</style>
+
+<div class="research-project">
+  <div class="research-project-image">
+    <img src="/assets/img/Figure1.svg" alt="Flowchart of WSINDY-MPC" />
   </div>
 
-  <div style="flex: 1 1 360px; min-width: 280px;">
+  <div class="research-project-text">
     <p>
       This work integrates weak-form sparse identification of nonlinear dynamics with model predictive control to identify interpretable nonlinear dynamical models from noisy measurements and use them for prediction and closed-loop control. The framework was demonstrated in applications involving fusion plasmas, aerial vehicles, and chaotic systems.
     </p>
