@@ -27,6 +27,34 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <style>
+/* Keep the page content permanently to the right of the profile */
+.profile + .clearfix {
+  overflow: hidden;
+  padding-left: 1.2rem;
+}
+
+/* Research Focus heading */
+.research-focus-title {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+}
+
+/* Research list */
+.research-focus-list {
+  padding-left: 1.8rem;
+  margin-top: 0;
+}
+
+.research-focus-list li {
+  padding-left: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+/* Optional: justify description text */
+.research-focus-list .research-description {
+  text-align: justify;
+}
 .social .contact-icons {
   font-size: 2rem !important;
 }
@@ -74,21 +102,43 @@ I am a Postdoctoral Associate in the [Department of Applied Mathematics](https:/
 
 I completed my Ph.D in [Mechanical Engineering and Applied Mechanics](https://engineering.unl.edu/mme/) at the University of Nebraska – Lincoln in 2025, advised by Professor [Keegan J. Moore](https://modal.ae.gatech.edu/team/).
 
-## Research Focus
+<h2 class="research-focus-title">Research Focus</h2>
 
-- **Nonlinear Dynamics**  
-  Data-driven discovery of interpretable nonlinear dynamical models from noisy and limited measurements by using Weak-form Scientific Machine Learning methods.
+<ul class="research-focus-list">
 
-- **Signal Processing**  
-  Weak signal detection and decomposition of signals with crossover frequencies.
+  <li>
+    <strong>Nonlinear Dynamics</strong><br>
+    <span class="research-description">
+      Data-driven discovery of interpretable nonlinear dynamical models from noisy and limited measurements using weak-form scientific machine learning methods.
+    </span>
+  </li>
 
-- **Model Predictive Control**  
-  Model-based prediction and control of nonlinear dynamical systems using interpretable learned models.
+  <li>
+    <strong>Signal Processing</strong><br>
+    <span class="research-description">
+      Weak signal detection and decomposition of signals with crossover frequencies.
+    </span>
+  </li>
 
-- **Rotating Machinery Fault Diagnosis**  
-  Condition monitoring and diagnosis of faults in rotating machinery and mechanical systems.
+  <li>
+    <strong>Model Predictive Control</strong><br>
+    <span class="research-description">
+      Model-based prediction and control of nonlinear dynamical systems using interpretable learned models.
+    </span>
+  </li>
 
-Explore my [research](/research/) page for more details.
+  <li>
+    <strong>Rotating Machinery Fault Diagnosis</strong><br>
+    <span class="research-description">
+      Condition monitoring and diagnosis of faults in rotating machinery and mechanical systems.
+    </span>
+  </li>
+
+</ul>
+
+<p>
+  Explore my <a href="/research/">research</a> page for more details.
+</p>
 
 <div class="social-links-custom">
   <a href="mailto:Cristian.LopezRuano@colorado.edu">
