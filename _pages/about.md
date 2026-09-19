@@ -114,16 +114,16 @@ I completed my Ph.D in [Mechanical Engineering and Applied Mechanics](https://en
   </li>
 
   <li>
-    <strong>Signal Processing</strong><br>
-    <span class="research-description">
-      Weak signal detection and decomposition of signals with crossover frequencies.
-    </span>
-  </li>
-
-  <li>
     <strong>Model Predictive Control</strong><br>
     <span class="research-description">
       Model-based prediction and control of nonlinear dynamical systems using interpretable learned models.
+    </span>
+  </li>
+  
+  <li>
+    <strong>Signal Processing</strong><br>
+    <span class="research-description">
+      Weak signal detection and decomposition of signals with crossover frequencies.
     </span>
   </li>
 
