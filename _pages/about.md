@@ -35,7 +35,7 @@ latest_posts:
 
 /* Research Focus heading */
 .research-focus-title {
-  font-size: 2rem;
+  font-size: 1.35rem !important;
   margin-top: 0;
   margin-bottom: 0.8rem;
 }
