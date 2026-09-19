@@ -30,6 +30,8 @@ I completed my Ph.D in [Mechanical Engineering and Applied Mechanics](https://en
 
 My main research interests include in Weak-form Scientific Machine Learning, Nonlinear Dynamics, Signal Processing, Control, Rotating Machinery Fault Diagnosis.
 
+Office: ECOT 641, Engineering Center, Office Tower | Boulder, CO 80309
+
 Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
