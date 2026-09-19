@@ -18,9 +18,6 @@ My research focuses on using weak-form scientific machine learning methods for s
   <div class="col-md-7">
     <p>
       This work integrates weak-form sparse identification of nonlinear dynamics with model predictive control to identify interpretable nonlinear dynamical models from noisy measurements and use them for prediction and closed-loop control. The framework was demonstrated in applications involving fusion plasmas, aerial vehicles, and chaotic systems.
-    </p>
-
-    <p>
       <em>PRSA</em>
       [<a href="https://doi.org/10.1098/rspa.2026.0413">DOI</a>]
       [<a href="https://arxiv.org/abs/2604.23269">arXiv</a>]
