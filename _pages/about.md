@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>ECOT 641, Engineering Center</p>
-  <p>1111 Engineering Drive</p>
+  <p>555 ECOT 641, Engineering Center</p>
+  <p>123 1111 Engineering Drive</p>
   <p>Boulder, CO 80309</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
