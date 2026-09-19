@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: Postdoctoral Associate in the Department of Applied Mathematics, University of Colorado Boulder.
+subtitle: Welcome to Cristian López's Homepage
 
 profile:
   align: right
