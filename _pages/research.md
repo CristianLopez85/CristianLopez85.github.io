@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-My research focuses on using weak-form scientific machine learning methods for system identification and parameter estimation from noisy and limited measurements, and applying the resulting models to prediction and control.
+My current research focuses on using weak-form scientific machine learning methods for system identification and parameter estimation from noisy and limited measurements, and applying the resulting models to prediction and control. Other projects include signal decomposition, bearing fault diagnostics, and health condition monitoring of rotating machinery.
 
 ## Prediction and Control
 
