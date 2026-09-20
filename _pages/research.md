@@ -54,14 +54,31 @@ My research focuses on using weak-form scientific machine learning methods for s
   </div>
 </div>
 
-## Hidden-State Estimation
+## Signal Processing
 
-...
+<div class="row">
+  <div class="col-md-6">
+    <img src="/assets/img/EALCT_SRFHN.svg" alt="EALCT and SRFHN signal-processing methods" class="img-fluid" />
+  </div>
 
-## Reduced-Order Modeling
+  <div class="col-md-6">
+    <p>
+      <strong>EALCT.</strong> The enhanced adaptive linear chirplet transform identifies and separates crossing instantaneous-frequency trajectories and reconstructs nonlinear and nonstationary multicomponent signals, including components with overlapping amplitudes.
+      <em>J. Sound Vib.</em>
+      [<a href="https://doi.org/10.1016/j.jsv.2024.118358">DOI</a>]
+      [<a href="https://github.com/CristianLopez85/EALCT">code</a>]
+    </p>
 
-...
+    <p>
+      <strong>SRFHN.</strong> Stochastic resonance using an underdamped FitzHugh–Nagumo potential enhances weak periodic signals buried in noise for weak-signal detection and vibration-based fault diagnosis.
+      <em>J. Sound Vib.</em>
+      [<a href="https://doi.org/10.1016/j.jsv.2017.08.043">DOI</a>]
+      [<a href="https://github.com/CristianLopez85/SRFHN">code</a>]
+    </p>
 
-## Fault Diagnosis and Structural Health Monitoring
+  </div>
+</div>
 
-...
+## Condition Monitoring and Fault Diagnosis
+
+Rotating Machinery Fault Diagnosis
