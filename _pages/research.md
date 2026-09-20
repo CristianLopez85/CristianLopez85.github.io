@@ -17,7 +17,7 @@ My research focuses on using weak-form scientific machine learning methods for s
 
   <div class="col-md-7">
     <p>
-      This work integrates weak-form sparse identification of nonlinear dynamics with model predictive control to identify interpretable nonlinear dynamical models from noisy measurements and use them for prediction and closed-loop control. The framework was demonstrated in applications involving fusion plasmas, aerial vehicles, and chaotic systems.
+      This work integrates weak-form sparse identification of nonlinear dynamics with model predictive control to identify interpretable nonlinear dynamical models from noisy measurements and use them for prediction and closed-loop control. The framework was demonstrated in applications involving plasma physics for fusion, a drone, and a chaotic system.
       <em>PRSA</em>
       [<a href="https://doi.org/10.1098/rspa.2026.0413">DOI</a>]
       [<a href="https://arxiv.org/abs/2604.23269">arXiv</a>]
@@ -48,7 +48,7 @@ My research focuses on using weak-form scientific machine learning methods for s
       <em>MSSP.</em>
       [<a href="https://doi.org/10.1016/j.ymssp.2025.112341">DOI</a>]
       [<a href="https://arxiv.org/abs/2410.17845">arXiv</a>]
-      [<a href="https://github.com/KeeganJMoore/EDDI">code</a>]
+      [<a href="https://github.com/KeeganJMoore/EDDI">code</a>]. EDDI was also applied to detect clearance nonlinearities [<a href="https://link.springer.com/article/10.1007/s11071-025-11098-z">DOI</a>], and extended to forced systems [<a href="https://link.springer.com/article/10.1007/s11071-025-11098-z">DOI</a>], and two-degree-of-freedom sytems[<a href="https://arxiv.org/abs/2607.29404">arXiv</a>].
     </p>
 
   </div>
