@@ -8,7 +8,7 @@ nav_order: 2
 
 My current research focuses on using weak-form scientific machine learning methods for system identification and parameter estimation from noisy and limited measurements, and applying the resulting models to prediction and control. Other projects include signal decomposition, bearing fault diagnostics, and health condition monitoring of rotating machinery.
 
-## Prediction and Control
+<h2 style="font-size: 1.3rem; font-weight: 700; margin-top: 2rem;">Prediction and Control</h2>
 
 <div class="row">
   <div class="col-md-5">
@@ -27,7 +27,7 @@ My current research focuses on using weak-form scientific machine learning metho
   </div>
 </div>
 
-## Data-driven Discovery of Governing Equations
+<h2 style="font-size: 1.3rem; font-weight: 700; margin-top: 2rem;">Data-driven Discovery of Governing Equations</h2>
 
 <div class="row">
   <div class="col-md-7">
@@ -54,11 +54,11 @@ My current research focuses on using weak-form scientific machine learning metho
   </div>
 </div>
 
-## Signal Processing
+<h2 style="font-size: 1.3rem; font-weight: 700; margin-top: 2rem;">Signal Processing</h2>
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/assets/img/EALCT_SRFHN.svg" alt="EALCT and SRFHN signal-processing methods" class="img-fluid" />
+    <img src="/assets/img/EALCT_SRFHN.svg" alt="EALCT and SRFHN signal processing methods" class="img-fluid" />
   </div>
 
   <div class="col-md-6">
@@ -70,7 +70,7 @@ My current research focuses on using weak-form scientific machine learning metho
     </p>
 
     <p>
-      <strong>SRFHN.</strong> Stochastic resonance using an underdamped FitzHugh–Nagumo potential enhances weak periodic signals buried in noise for weak-signal detection and vibration-based fault diagnosis.
+      <strong>SRFHN.</strong> Stochastic resonance using an underdamped FitzHugh–Nagumo potential enhances weak periodic signals buried in noise for weak signal detection and vibration-based fault diagnosis.
       <em>JSV.</em>
       [<a href="https://doi.org/10.1016/j.jsv.2017.08.043">DOI</a>]
       [<a href="https://github.com/CristianLopez85/SRFHN">code</a>]
@@ -79,6 +79,25 @@ My current research focuses on using weak-form scientific machine learning metho
   </div>
 </div>
 
-## Condition Monitoring and Fault Diagnosis
+<h2 style="font-size: 1.3rem; font-weight: 700; margin-top: 2rem;">Condition Monitoring and Fault Diagnosis</h2>
 
-Rotating Machinery Fault Diagnosis
+<div class="row">
+  <div class="col-md-6">
+    <img src="/assets/img/BCSM_HMMSR.svg" alt="BCSM and HMMSR methods for condition monitoring and fault diagnosis" class="img-fluid" />
+  </div>
+
+  <div class="col-md-6">
+    <p>
+      <strong>BCSM.</strong> Box-Cox sparse measures are incorporated into a generalized blind filtering framework to connect kurtosis- and negentropy-based deconvolution and extract sparse fault-related signatures from vibration measurements. The approach was validated using simulated and experimental bearing data.
+      <em>MSSP</em>
+      [<a href="https://doi.org/10.1016/j.ymssp.2021.108376">DOI</a>]
+    </p>
+
+    <p>
+      <strong>HMMSR.</strong> We combined Stochastic Resonance, Box-Cox sparse measures, and continuous hidden Markov models to perform fault diganosis directly from measured data without requiring prior knowledge of the fault frequency.
+      <em>JSV</em>
+      [<a href="https://doi.org/10.1016/j.jsv.2022.116890">DOI</a>]
+    </p>
+
+  </div>
+</div>
