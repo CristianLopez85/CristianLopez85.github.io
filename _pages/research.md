@@ -36,18 +36,16 @@ My research focuses on using weak-form scientific machine learning methods for s
 
   <div class="col-md-7">
     <p>
-      <strong>WmSINDy.</strong> Weak-form modified sparse identification of nonlinear dynamics combines WSINDy and mSINDy to identify parsimonious nonlinear
-      dynamical models from noisy measurements while simultaneously characterizing the measurement noise.
-      <em>J. Comput. Phys.</em>
+      <strong>WmSINDy.</strong> The Weak-form modified Sparse Identification of Nonlinear Dynamics method combines WSINDy and mSINDy to identify parsimonious nonlinear dynamical models from noisy measurements while simultaneously characterizing the measurement noise.
+      <em>JCP.</em>
       [<a href="https://doi.org/10.1016/j.jcp.2025.114410">DOI</a>]
       [<a href="https://arxiv.org/abs/2410.17838">arXiv</a>]
       [<a href="https://github.com/CristianLopez85/WmSINDy">code</a>]
     </p>
 
     <p>
-      <strong>EDDI.</strong> Energy-based dual-phase dynamics identification uses the mechanical energy of a system to identify nonlinear damping and stiffness,
-      enabling discovery of governing equations directly from free-response measurements.
-      <em>Mech. Syst. Signal Process.</em>
+      <strong>EDDI.</strong> Energy-based dual-phase dynamics identification uses the mechanical energy of a system to identify nonlinear damping and stiffness, enabling discovery of governing equations directly from free-response measurements.
+      <em>MSSP.</em>
       [<a href="https://doi.org/10.1016/j.ymssp.2025.112341">DOI</a>]
       [<a href="https://arxiv.org/abs/2410.17845">arXiv</a>]
       [<a href="https://github.com/KeeganJMoore/EDDI">code</a>]
