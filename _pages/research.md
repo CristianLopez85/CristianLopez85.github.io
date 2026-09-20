@@ -57,11 +57,11 @@ My current research focuses on using weak-form scientific machine learning metho
 <h2 style="font-size: 1.3rem; font-weight: 700; margin-top: 2rem;">Signal Processing</h2>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-7">
     <img src="/assets/img/EALCT_SRFHN.svg" alt="EALCT and SRFHN signal processing methods" class="img-fluid" />
   </div>
 
-  <div class="col-md-6">
+  <div class="col-md-5">
     <p>
       <strong>EALCT.</strong> The enhanced adaptive linear chirplet transform identifies and separates crossing instantaneous-frequency trajectories and reconstructs nonlinear and nonstationary multicomponent signals, including components with overlapping amplitudes.
       <em>JSV.</em>
@@ -82,11 +82,11 @@ My current research focuses on using weak-form scientific machine learning metho
 <h2 style="font-size: 1.3rem; font-weight: 700; margin-top: 2rem;">Condition Monitoring and Fault Diagnosis</h2>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-7">
     <img src="/assets/img/BCSM_HMMSR.svg" alt="BCSM and HMMSR methods for condition monitoring and fault diagnosis" class="img-fluid" />
   </div>
 
-  <div class="col-md-6">
+  <div class="col-md-5">
     <p>
       <strong>BCSM.</strong> Box-Cox sparse measures are incorporated into a generalized blind filtering framework to connect kurtosis- and negentropy-based deconvolution and extract sparse fault-related signatures from vibration measurements. The approach was validated using simulated and experimental bearing data.
       <em>MSSP</em>
