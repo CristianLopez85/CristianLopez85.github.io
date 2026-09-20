@@ -30,11 +30,11 @@ My research focuses on using weak-form scientific machine learning methods for s
 ## Data-driven Discovery of Governing Equations
 
 <div class="row">
-  <div class="col-md-5">
+  <div class="col-md-7">
     <img src="/assets/img/WmSINDy_EDDI.svg" alt="WmSINDy and EDDI methods for governing equation discovery" class="img-fluid" />
   </div>
 
-  <div class="col-md-7">
+  <div class="col-md-5">
     <p>
       <strong>WmSINDy.</strong> The Weak-form modified Sparse Identification of Nonlinear Dynamics method combines WSINDy and mSINDy to identify parsimonious nonlinear dynamical models from noisy measurements while simultaneously characterizing the measurement noise.
       <em>JCP.</em>
